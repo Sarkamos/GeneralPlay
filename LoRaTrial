@@ -24,7 +24,7 @@ env_default = generic
 
 ;env_default = heltec
 
-;env_default = heltecv2
+env_default = heltecv2
 
 ;env_default = ttgov1
 
